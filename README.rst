@@ -1,7 +1,10 @@
-# awesome-education-with-python
+awesome-education-with-python
+########################################
 
-# Literacy
+Literacy
+****************************************
 
-## Crosswords
+Crosswords
+========================================
 
 * https://github.com/fiee/croisee
