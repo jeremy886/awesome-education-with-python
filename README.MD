@@ -10,3 +10,6 @@
 
 ### Crosswords
 * https://github.com/fiee/croisee
+
+### Spelling Bees
+https://github.com/philshem/open-spelling-bee
