@@ -31,5 +31,10 @@
 ### Worksheets
 * https://github.com/januschung/math-worksheet-generator
 
+## Learning Tools
+
+### Word Search
+*  https://github.com/mihi-r/word-search-mania
+
 ## Examples
 * https://github.com/juneadkhan/Homework-REPL
